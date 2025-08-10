@@ -98,15 +98,12 @@ docker-compose run --rm web pytest
 - Add Trivy for container vulnerability scanning
 - Integrate SonarQube for code quality
 - Add OWASP Dependency-Check
-- Set up GitHub Actions CI/CD
-- Add a frontend (e.g., React) or database if needed
 
 ---
 
 ## 🧑‍💻 Author
 
-- Name: **Your Name**
-- Email: your.email@example.com
-- GitHub: [yourusername](https://github.com/yourusername)
+- Name: Ukkurthi srinivas	
+- GitHub: [Ukkurthisrinivas-egg](https://github.com/Ukkurthisrinivas-egg)
 
 ---
