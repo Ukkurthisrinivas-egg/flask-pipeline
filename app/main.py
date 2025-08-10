@@ -1,7 +1,11 @@
-from flask import Blueprint
+from flask import Flask
 
-main_bp = Blueprint('main', __name__)
+app = Flask(__name__)
 
-@main_bp.route("/")
+@app.route("/")
 def home():
-    return "Hello, Job Assignment!"
+    return "Hello, CI/CD Pipeline!"
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=5000)
+
