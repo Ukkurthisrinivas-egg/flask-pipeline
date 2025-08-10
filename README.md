@@ -38,7 +38,7 @@ job-ready-flask/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourname/job-ready-flask.git
+git clone https://github.com/Ukkurthisrinivas-egg/job-ready-flask.git
 cd job-ready-flask
 ```
 
